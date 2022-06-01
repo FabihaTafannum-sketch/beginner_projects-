@@ -1,3 +1,5 @@
+''' THIS IS AN IMPROVISED CODE '''
+
 print("Welcome to Quizone!")
 
 # 1st WAY to perform this if statement...
